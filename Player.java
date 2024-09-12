@@ -1,7 +1,6 @@
 /*
     Name: Manav Mittal
-    Date: Dec 08, 2021
-    Assignment: CSC-221 Final
+    Date: Dec 08, 2022
 
     File Descripton:
     - Player Class inheriting from the abstract Actor class. 
