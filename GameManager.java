@@ -1,7 +1,6 @@
 /*
     Name: Manav Mittal
-    Date: Dec 08, 2021
-    Assignment: CSC-221 Final
+    Date: Dec 08, 2022
 
     File Descripton:
     This program acts as a blueprint to a game. It has several static methods that contain different menus and functions that the user can do. 
