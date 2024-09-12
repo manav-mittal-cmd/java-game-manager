@@ -1,7 +1,6 @@
 /*
     Name: Manav Mittal
-    Date: Dec 08, 2021
-    Assignment: CSC-221 Final
+    Date: Dec 08, 2022
 
     File Descripton:
     - Abstract class with info() method as the abstract method. Contains the attributes name and health. 
