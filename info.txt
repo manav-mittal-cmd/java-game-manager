@@ -1,0 +1,4 @@
+p,player 1,100,0,5
+p,player 2,100,0,5
+m,monster 1,100,Generic
+m,monster 2,100,mythical
